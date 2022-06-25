@@ -3,7 +3,7 @@
 
 [Demo](https://vermillion-klepon-0a3df3.netlify.app/)
 
-![central point screenshot](/images/reademe/central_point.png)
+![central point screenshot](/images/readme/central_point.png)
 
 
 *** 
