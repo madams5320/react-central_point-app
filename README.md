@@ -1,12 +1,17 @@
 # Central Point - Social Media Responsive Design
 
 
+[Demo](https://vermillion-klepon-0a3df3.netlify.app/)
+
+![central point screenshot](central_point.png)
+
+
 *** 
 
 ## Tools
 - Material UI
 - Material icons
-- useState
+- Hooks
 
 
 ***
